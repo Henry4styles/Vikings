@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.799,C:\Users\ma2056\Documents\Embarcadero\Studio\Projekte\Unit1.pas=C:\Users\ma2056\Documents\Embarcadero\Studio\Projekte\Vikings\UfrmVikings.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.731,=C:\Users\ma2056\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.273,=C:\Users\ma2056\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
-    <Transaction>2024.01.22 10:15:53.731,=C:\Users\ma2056\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
-    <Transaction>2024.01.22 10:20:59.799,C:\Users\ma2056\Documents\Embarcadero\Studio\Projekte\Vikings\UfrmVikings.pas=C:\Users\ma2056\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
-    <Transaction>2024.01.22 10:20:59.799,C:\Users\ma2056\Documents\Embarcadero\Studio\Projekte\Vikings\UfrmVikings.dfm=C:\Users\ma2056\Documents\Embarcadero\Studio\Projekte\Unit1.dfm</Transaction>
-    <Transaction>2024.01.22 10:21:23.717,C:\Users\ma2056\Documents\Embarcadero\Studio\Projekte\Vikings\prjVikings.dproj=C:\Users\ma2056\Documents\Embarcadero\Studio\Projekte\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.799,C:\Users\ma2056\Documents\Embarcadero\Studio\Projekte\Unit1.dfm=C:\Users\ma2056\Documents\Embarcadero\Studio\Projekte\Vikings\UfrmVikings.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.717,C:\Users\ma2056\Documents\Embarcadero\Studio\Projekte\Project1.dproj=C:\Users\ma2056\Documents\Embarcadero\Studio\Projekte\Vikings\prjVikings.dproj</Transaction>
   </Transactions>
 </BorlandProject>

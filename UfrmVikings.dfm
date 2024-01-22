@@ -33,14 +33,14 @@ object Game: TGame
       Brush.Color = clMaroon
     end
     object enemy3: TShape
-      Left = 88
+      Left = 80
       Top = 17
       Width = 41
       Height = 41
       Brush.Color = clMaroon
     end
     object enemy4: TShape
-      Left = 151
+      Left = 143
       Top = 17
       Width = 41
       Height = 41
